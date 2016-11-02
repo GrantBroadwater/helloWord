@@ -8,7 +8,7 @@ void displayGreeting();
 
 int main()
 {
-  cout << "Hello, world!" << endl;
+  displayGreeting();
 
   return 0;
 }
