@@ -4,6 +4,8 @@
 
 using namespace std;
 
+void displayGreeting();
+
 int main()
 {
   cout << "Hello, world!" << endl;
